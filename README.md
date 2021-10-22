@@ -1,2 +1,2 @@
-# web
-Projetos de desenvolvimento web
+# Projetos Web
+Projetos de desenvolvimento web, utilizando as linguagens HTML e CSS.
