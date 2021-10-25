@@ -1,0 +1,23 @@
+@media screen and (max-width: 720px){
+    header .container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    }
+
+    .botao{
+        margin-top: 5px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .jogo-principal{
+        height: 600px;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .descricao{
+        width: 70%;
+    }
+}
