@@ -15,6 +15,8 @@ Projetos de desenvolvimento web, utilizando as linguagens HTML, CSS e JavaScript
 - [Visual Studio Code](https://code.visualstudio.com)
 - HTML5
 - CSS3
+- JavaScript V8 9.4.146.21
+- [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/)
 
 Para acessar o repositório no GitHub, clique [aqui](https://github.com/GabrielVitorino28/Web).
